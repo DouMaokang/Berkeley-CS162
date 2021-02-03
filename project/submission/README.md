@@ -1,4 +1,4 @@
-CS 162 Group Repository
+CS 162 Project Directory
 =======================
 
-This repository contains code for CS 162 group projects.
+This directory contains code for CS 162 group projects - PintOS implementation.
